@@ -1,0 +1,43 @@
+.navbar-custom {
+    background-color: #0f68c2; /* Warna latar belakang elegan */
+    border-color: #0f68c2; /* Warna border */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Bayangan untuk efek elegan */
+    margin-bottom: 0; /* Hapus margin bawah */
+}
+.navbar-custom .navbar-brand {
+    color: #1a91ae; /* Warna teks brand */
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+.navbar-custom .navbar-brand img {
+    height: 10px; /* Ukuran logo */
+    margin-right: 5px;
+}
+.navbar-custom .navbar-nav > li > a {
+    color: #ECF0F1; /* Warna teks link */
+    font-weight: bold;
+    transition: color 0.3s; /* Transisi untuk efek hover */
+}
+.navbar-custom .navbar-nav > li > a:hover,
+.navbar-custom .navbar-nav > li.active > a {
+    color: #000000; /* Warna teks link saat hover dan aktif */
+}
+.navbar-custom .navbar-nav > li > a .glyphicon {
+    margin-right: 5px;
+}
+.navbar-custom .navbar-form .form-control {
+    border-radius: 20px; /* Border radius untuk input pencarian */
+    border: 1px solid #3498DB; /* Warna border input */
+}
+.navbar-custom .navbar-form .btn {
+    background-color: #3498DB;
+    color: #ecedf1;
+    border-radius: 20px; /* Border radius untuk tombol */
+    border: none;
+    transition: background-color 0.3s; /* Transisi untuk efek hover */
+}
+.navbar-custom .navbar-form .btn:hover {
+    background-color: #2980B9; /* Warna tombol saat hover */
+}
+
