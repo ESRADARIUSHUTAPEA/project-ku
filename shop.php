@@ -19,7 +19,7 @@ $total_products = $total_products_result->fetch_assoc()['total'];
 $total_pages = ceil($total_products / $products_per_page);
 
 // Query untuk mendapatkan produk dengan pagination
-$sql = "SELECT * FROM produk ORDER BY created_at DESC LIMIT $products_per_page OFFSET $offset";
+$sql = "SELECT * FROM produk ORDER BY id DESC LIMIT $products_per_page OFFSET $offset";
 $result = $koneksi->query($sql);
 ?>
 <?php

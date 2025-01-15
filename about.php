@@ -20,7 +20,7 @@
                 <p>
                     Dengan layanan pengiriman cepat dan dukungan pelanggan 11/17, kami berkomitmen untuk memberikan pengalaman belanja yang menyenangkan dan memuaskan. Cobalah produk kami dan rasakan perbedaannya!
                 </p>
-                <a href="produk.php" class="btn btn-success">Belanja Sekarang</a>
+                <a href="shop.php" class="btn btn-success">Belanja Sekarang</a>
             </div>
         </div>
     </div>

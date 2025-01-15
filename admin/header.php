@@ -27,6 +27,7 @@
                 <ul class="nav navbar-nav">
                     <li class=""><a href="index.php">BERANDA<span class="sr-only">(current)</span></a></li>
                     <li><a href="tampilan-pesanan.php">DATA PESANAN</a></li>
+                    <li><a href="tampil-produk.php">DATA PRODUK</a></li>
                     <li><a href="contact.php"> KRITIK DAN SARAN</a></li>
                     <li><a href="tambah-produk.php"> TAMBAH PRODUK</a></li>
                     <li><a href="tampil-user.php">USER</a></li>

@@ -10,7 +10,7 @@ $id=$_GET['id'];
 
 include "../koneksi.php";
 
-$hapus=$koneksi->query("delete from pesanan where pesanan_id='$id'");
+$hapus=$koneksi->query("delete from produk where id='$id'");
 
 if($hapus==true){
 

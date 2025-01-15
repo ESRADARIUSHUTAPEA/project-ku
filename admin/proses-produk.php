@@ -18,7 +18,7 @@ $simpan=$koneksi->query("insert into mahasiswa(nim,nama,jenis_kelamin,alamat)
 
 if($simpan==true){
 
-    header("location:tampil-mahasiswa.php?pesan=inputBerhasil");
+    header("location:tampil-produk?pesan=inputBerhasil");
 } else{
     echo "Error";
 }

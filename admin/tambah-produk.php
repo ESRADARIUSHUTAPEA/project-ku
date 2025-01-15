@@ -14,7 +14,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     if (move_uploaded_file($_FILES['gambar']['tmp_name'], $target)) {
         $query = "INSERT INTO produk (nama, harga, gambar) VALUES ('$nama', '$harga', '$gambar')";
-        if ($koneksi->query($query) ) {
+        if ($koneksi->query($query) === TRUE) {
             header("location:tampil-produk.php?pesan=inputBerhasil");
         } else {
             echo "Error: " . $query . "<br>" . $koneksi->error;
