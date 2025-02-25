@@ -25,7 +25,7 @@
             <div class="collapse navbar-collapse" id="navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li class=""><a href="index.php">BERANDA<span class="sr-only">(current)</span></a></li>
-                    <li><a href="shop.php">PRODUK</a></li>
+                    <li><a href="produk.php">PRODUK</a></li>
                     <li><a href="about.php">TENTANG KAMI</a></li>
                     <li><a href="contacts.php">KONTAK</a></li>
                     <li style="margin-left:500px;"><a href="login.php">Login</a></li>

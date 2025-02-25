@@ -160,7 +160,7 @@
                     pengalaman belanja yang menyenangkan dan memuaskan. 
                     Cobalah Pakai produk kami dan rasakan perbedaannya!
                 </p>
-                <a href="shop.php" class="btn btn-success">Belanja Sekarang</a>
+                <a href="produk.php" class="btn btn-success">Belanja Sekarang</a>
             </div>
         </div>
     </div>
@@ -203,7 +203,7 @@
                     <img src="images/blog/Baju Abu-abu.jpg"  alt="Blog 1" class="img-responsive">
                     <h4>Baju Kemeja Lengan Pendek Berwarna Abu-abu</h4>
                     <p>Rp. 100.000.</p>
-                    <a href="shop.php" class="btn btn-success">Belanja Sekarang</a>
+                    <a href="produk.php" class="btn btn-success">Belanja Sekarang</a>
                 </div>
             </div>
             <div class="col-sm-4">
@@ -211,7 +211,7 @@
                     <img src="images/blog/Baju biru.jpg" alt="Blog 2" class="img-responsive">
                     <h4>Baju Kemeja lengan Panjang Berwarna Biru</h4>
                     <p>Rp.100.000</p>
-                    <a href="shop.php" class="btn btn-success">Belanja Sekarang</a>
+                    <a href="produk.php" class="btn btn-success">Belanja Sekarang</a>
                 </div>
             </div>
             <div class="col-sm-4">
@@ -219,7 +219,7 @@
                     <img src="images/blog/Baju Merah.jpg" alt="Blog 3" class="img-responsive">
                     <h4>Baju Kemeja Lengan Pendek Berwarna Merah</h4>
                     <p>Rp.100.000</p>
-                    <a href="shop.php" class="btn btn-success">Belanja Sekarang</a>
+                    <a href="produk.php" class="btn btn-success">Belanja Sekarang</a>
                 </div>
             </div>
         </div>
