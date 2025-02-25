@@ -29,7 +29,7 @@
                         <input type="password" name="password" class="form-control" required>
                     </div>
 
-                    <input type="submit" name="kirim" value="Login" class="btn btn-info">
+                    <input type="submit" name="kirim" value="Login" class="btn btn-primary">
                     <input type="reset" name="kosongkan" value="Reset" class="btn btn-danger">
                     <a href="index.php"><span class="glyphicon glyphicon-home pull-right"> Home</span> </a>
                 </form>
